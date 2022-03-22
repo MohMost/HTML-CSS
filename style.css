@@ -1,0 +1,40 @@
+.title-index {
+    margin-top: 0;
+}
+
+input [type=text],
+input [type=email] {
+    width: 200px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: green;
+}
+
+.header {
+    background: gray;
+    padding: 20px;
+}
+
+.main {
+    background: lightgray;
+    padding: 20px;
+}
+
+.footer {
+    background: gray;
+    padding: 10px 20px;
+}
+
+.header img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 0;
+}
